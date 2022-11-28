@@ -22,7 +22,6 @@ End Station
 User Type
 The Chicago and New York City files also have the following two columns:
 
-Gender
 Birth Year
 Answering Questions
 Through writing code, I'm able to answer the following questions about the bike share data:
