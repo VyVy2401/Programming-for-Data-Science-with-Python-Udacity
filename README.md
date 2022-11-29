@@ -7,7 +7,7 @@ This repository contains projects did for Udacity Programming For Data Science W
 
 
 ## Project 1 : Investigate a Relational Database
-[Check My Project Submission Through This Link](https://github.com/VyVy2401/Project-bikeshare/tree/main/Project%201)
+[Check My Project Submission Through This Link](https://github.com/VyVy2401/Programming-for-Data-Science-with-Python-Udacity/tree/main/Project%201)
 
 ### Overview:
 
@@ -21,7 +21,7 @@ For the presentation component, the student had to create four slides, and each 
 
 
 ## Project 2 : Explore US Bikeshare Data
-[Check My Project Submission Through This Link](https://github.com/VyVy2401/Project-bikeshare/tree/main/Project%20bikeshare)
+[Check My Project Submission Through This Link](https://github.com/VyVy2401/Programming-for-Data-Science-with-Python-Udacity/tree/main/Project%20bikeshare)
 
 ### Overview:
 
@@ -31,7 +31,7 @@ The developed CLI program allows the user to explore an US bikeshare system data
 
 
 ## Project 3 : Post your Work on GitHub
-[Check My Project Submission Through This Link](https://github.com/VyVy2401/Project-bikeshare/tree/main/Project%203%20GitHub)
+[Check My Project Submission Through This Link](https://github.com/VyVy2401/Programming-for-Data-Science-with-Python-Udacity/tree/main/Project%203%20GitHub)
 
 ### Overview:
 
