@@ -1,64 +1,41 @@
-# Project-bikeshare
-Project bikeshare Udacity
-Udacity Data Analyst Degree - Project II
+# Udacity-Programming-For-Data-Science-With-Python
+<img src="Certificate/Temp/temp.jpg" width="1000">
 
-Overview
-In this project, I will explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. Using Python, I will write a code import the data and answer interesting questions about it by computing descriptive statistics. I will also write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
+## Created by TrangMTM
 
-What Software Do I Need?
-To complete this project, i'll require the following softwares:
-
-Python
-A text editor, like Sublime or Atom
-A terminal application
-The Datasets
-The datasets provided by Motivate, a bike share system provider in the US, contains randomly selected data for the first six months of 2017 for all three cities. The data files for all three cities contain the same core six columns:
-
-Start Time
-End Time
-Trip Duration
-Start Station
-End Station
-User Type
-The Chicago and New York City files also have the following two columns:
-
-Birth Year
-Answering Questions
-Through writing code, I'm able to answer the following questions about the bike share data:
-
-What month occurs most often in the start time?
-What day of the week (Monday, Tuesday, etc.) occurs most often in the start time?
-What hour of the day occurs most often in the start time?
-What is the total trip duration and average trip duration?
-What is the most frequently used start station and most frequently used end station?
-What is the most common trip (i.e., the combination of start station and end station that occurs the most often)?
-What are the counts of each user type?
-What are the counts of gender?
-What is the earliest birth year (when the oldest person was born), most recent birth year, and most common birth year?
+This repository contains projects did for Udacity Programming For Data Science With Python Nanodegree.
 
 
+## Project 1 : Investigate a Relational Database
+[Check My Project Submission Through This Link](https://github.com/VyVy2401/Project-bikeshare/tree/main/Project%201)
+
+### Overview:
+
+This project consisted in the exploration of a provided database movie rentals in which the student had to run SQL queries and build visualizations to showcase the output of the student's queries. 
+
+For the presentation component, the student had to create four slides, and each should have 
+* A question of interest.
+* A supporting SQL query needed to answer the question.
+* A supporting visualization created using the final data of the SQL queries that answer the questions of interest.
+* A small summary on each slide.
 
 
-# Explore US Bikeshare Data
+## Project 2 : Explore US Bikeshare Data
+[Check My Project Submission Through This Link](https://github.com/VyVy2401/Project-bikeshare/tree/main/Project%20bikeshare)
 
-### Description
+### Overview:
+
 In this project, you will make use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. You will write code to import the data and answer interesting questions about it by computing descriptive statistics. You will also write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
-### List of software, firmware and hardware you may require.
-* You should have Python 3, NumPy, and pandas installed using Anaconda
-* A text editor, like Sublime or Atom.
-* A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
+The developed CLI program allows the user to explore an US bikeshare system database and retrieve statistics information from the database. The user is able filter the information by city, month and weekday, in order to visualize statistics information related to a specific subset of data. The user is also able to chose to view raw data and to sort this data by columns, in ascending or descending order.
 
-### Files used
-1. The following file contains necessary code:
-   * bikeshare.py	
-2. The following files are not uploaded to remote repo by using **.gitignore** because the files are too big:
-   * chicago.csv
-   * new_york_city.csv
-   * washington.csv
 
-### Credits
-* [Pandas documentation is very usefull.](https://pandas.pydata.org/docs/)
-* [Numpy documentation.](https://numpy.org/doc/) (if needed)
-* [Python documentation for controlflow.](https://docs.python.org/3/tutorial/controlflow.html)
-* If I have doubts about the errors occured while running the code I used: www.stackoverflow.com
+## Project 3 : Post your Work on GitHub
+[Check My Project Submission Through This Link](https://github.com/VyVy2401/Project-bikeshare/tree/main/Project%203%20GitHub)
+
+### Overview:
+
+This project consisted in using Git and GitHub with a simulated workflow to refactor Project 2.
+
+The Project Submission consisted in the filling of a template with all the Git commands used to perform the requested tasks.
+
